@@ -77,7 +77,11 @@ Publicado = True
 
 <!--- GITHUB MARKDOWN -->
 * [x] Tarea 1
-* [] Tarea 2
-* [] Tarea 3
+* [ ] Tarea 2
+* [ ] Tarea 3
 * [x] Tarea 4
 
+
+@faztweb  :blush:
+
+:+1:
